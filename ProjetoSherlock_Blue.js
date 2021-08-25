@@ -1,4 +1,4 @@
-console.log("Por favor, responda as perguntas abaixo uitilizando 0 para não e 1 para sim");
+console.log("Por favor, responda as perguntas abaixo utilizando 0 para não e 1 para sim");
 
 let primeiraPergunta = +prompt ("Telefonou para a vítima?");
 let segundaPergunta = +prompt ("Esteve no local do crime?");
